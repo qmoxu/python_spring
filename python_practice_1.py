@@ -1,0 +1,1 @@
+print("Prokopchuk Volodymyr, 3-rd group, se")
